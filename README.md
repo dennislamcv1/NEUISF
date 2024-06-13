@@ -1,2 +1,4 @@
 # NEUISF
-Information Systems Foundations Specialization
+## Information Systems Foundations Specialization
+
+The Information Systems Foundations specialization provides an immersive experience into software development and information systems across four courses. Designed to progressively build from basic concepts to advanced applications, it aims to arm you with practical skills in software engineering, domain modeling, and Python programming. Beginning with advanced software engineering techniques and systems thinking, this specialization advances through object-oriented programming, culminating in hands-on Python projects that tackle real-world problems. Throughout this specialization, you'll master the art of modeling significant business applications swiftly and effectively, preparing you for challenges in the professional world of information systems.  
